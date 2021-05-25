@@ -14,3 +14,29 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.user-auth-card {
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 30px;
+  width: 500px;
+}
+
+.main-box {
+  padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+}
+
+.form-des {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 12px;
+}
