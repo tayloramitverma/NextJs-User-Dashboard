@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Next Js || Node Js || User Auth Dashboard
+
 First, run the development server:
 
 ```bash
